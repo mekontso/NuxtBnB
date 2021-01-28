@@ -5,8 +5,7 @@
   },
   "scripts": {
     "dev": "nuxt",
-    "generate": "nuxt generate",
-    "build": "nuxt build",
+    "build": "nuxt generate",
     "start": "nuxt start"
   }
 }
