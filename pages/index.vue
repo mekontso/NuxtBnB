@@ -8,10 +8,20 @@
 
 <script>
 import homes from '../data/homes.json'
-import HomeCard from "~/components/HomeCard";
 export default {
+  head(){
+    return{
+      title: 'Homepage',
+      meta:[
+        {
+          name: 'description',
+          content:'This is a homepage!',
+          hid:'description'
+        }
+      ]
+    }
+  },
   name: "index",
-  components: {HomeCard},
   data:() =>({
     homes:homes.slice(0,3)
   })
