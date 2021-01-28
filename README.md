@@ -2,7 +2,7 @@
 This app is a clone of BnB website developed using NUXT JS
 ## Online preview
 Visit this link https://nuxt-bnb-q4wy9txeh.vercel.app/ to view the app
-It is deployed on VERCEL
+
 ## Build Setup
 
 ```bash
