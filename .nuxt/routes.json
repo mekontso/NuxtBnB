@@ -2,15 +2,15 @@
   {
     "name": "home-id",
     "path": "/home/:id?",
-    "component": "/home/mas/PhpstormProjects/NuxtBnB/pages/home/_id.vue",
+    "component": "/home/willscorp/PhpstormProjects/NuxtBnB/pages/home/_id.vue",
     "chunkName": "pages/home/_id",
-    "_name": "_06056074"
+    "_name": "_5b799fb2"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "/home/mas/PhpstormProjects/NuxtBnB/pages/index.vue",
+    "component": "/home/willscorp/PhpstormProjects/NuxtBnB/pages/index.vue",
     "chunkName": "pages/index",
-    "_name": "_2dd42174"
+    "_name": "_3fa186da"
   }
 ]
