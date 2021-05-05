@@ -4,5 +4,11 @@
   },
   "LazyHomeCard": {
     "description": "Auto imported from /components/HomeCard.vue"
+  },
+  "ShortText": {
+    "description": "Auto imported from /components/ShortText.vue"
+  },
+  "LazyShortText": {
+    "description": "Auto imported from /components/ShortText.vue"
   }
 }
